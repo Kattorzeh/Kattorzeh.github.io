@@ -5,6 +5,10 @@
 
 - type: twitter
   icon: "fa-brands fa-x-twitter"
+
+- type: medium
+  icon: "fa-brands fa-medium"
+  url: "https://medium.com/@kattorzeh"
 # - type: email
 #   icon: "fas fa-envelope"
 #   noblank: true # open link in current tab
